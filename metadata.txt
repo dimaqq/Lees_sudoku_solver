@@ -1,0 +1,9 @@
+Archive:  /Users/dima/Downloads/drive-download-20170617T161144Z-001.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+     1311  06-08-2015 15:57   Sample Run.txt
+     1101  05-06-2015 00:50   License.txt
+     6656  05-04-2015 02:43   Sudoku2.exe
+     4630  06-08-2015 15:56   Sudoku2.cpp
+---------                     -------
+    13698                     4 files
