@@ -16,5 +16,5 @@ https://drive.google.com/folderview?id=0B2G2LjIu7WbdfjhaUmVzc1lCR2hUdk5fZllCOHdt
 Google Drive sharing metadata: `Hsien Loong Lee online_comms@pmo.gov.sg`
 
 ## Branches
-* master: original source code and binary, metadata, checksums
-* analysis: (TBD)
+* archive: original source code and binary, metadata, checksums
+* analysis: [one day, when I have time]
